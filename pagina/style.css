@@ -1,0 +1,71 @@
+*{
+        margin: 0;
+        padding: 0;
+}
+body{
+        font-family: 'Josefin Sans', sans-serif;
+        background-image: url(../img/banner.jpg);
+        background-size: cover;
+        text-align: center;
+}
+.header {
+        background-color: #673AB7;
+        display: flex;
+        justify-content: space-between;
+        height: 5vh;
+        
+}
+h2{
+        text-align: center;
+}
+.m1 {
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        height: 5vh;
+        text-align: center;
+}
+.palavra{
+        color: #FFC107;
+}
+h1{
+        justify-content: center;
+        text-align: center;
+}
+.div1 {
+        display: flex;
+        justify-content: space-between;
+}
+.div2 {
+        display: flex;
+        justify-content: space-evenly;
+}
+form{
+        border-radius: 40px;
+        margin: 200px;
+        background-color:darkgray;
+        width: 40vw;
+        height: 20vh;
+        justify-content: center;
+}
+.painel{
+        width: 30vw;
+        height: 60vh;
+        border: 5px;
+}
+input{
+        border-radius: 25px;
+        height: 2vh;
+}
+.div3{
+        background-color: black;
+        width: 100vw;
+        height: 100vh;
+        color: aliceblue;
+        
+}
+button{
+        border-radius: 20px;
+        background-color: #FFC107;
+        height: 50px;
+}
